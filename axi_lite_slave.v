@@ -8,3 +8,4 @@ module axi_lite_slave (
         else out <= ~out;
     end
 endmodule
+// TODO: Optimize this block in future refactor
