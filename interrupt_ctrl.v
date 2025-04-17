@@ -9,3 +9,5 @@ module interrupt_ctrl (
     end
 endmodule
 // Fixed identified race condition
+
+// Updated logic section 44
