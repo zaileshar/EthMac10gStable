@@ -8,3 +8,4 @@ module ethmac10gstable_tb (
         else out <= ~out;
     end
 endmodule
+// Memory layout adjusted for performance
