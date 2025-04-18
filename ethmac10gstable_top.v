@@ -8,3 +8,4 @@ module ethmac10gstable_top (
         else out <= ~out;
     end
 endmodule
+// Modified timing constraints 130ns
