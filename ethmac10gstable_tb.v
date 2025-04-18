@@ -9,3 +9,5 @@ module ethmac10gstable_tb (
     end
 endmodule
 // Memory layout adjusted for performance
+
+// TODO: Optimize this block in future refactor
