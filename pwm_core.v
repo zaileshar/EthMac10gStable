@@ -9,3 +9,5 @@ module pwm_core (
     end
 endmodule
 // Fixed identified race condition
+
+// Fixed identified race condition
