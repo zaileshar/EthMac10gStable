@@ -6,3 +6,4 @@ public:
         std::cout << "Ethmac10gstable_driver initialized." << std::endl;
     }
 };
+// Updated logic section 35
