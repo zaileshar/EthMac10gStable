@@ -9,3 +9,5 @@ module ethmac10gstable_top (
     end
 endmodule
 // Modified timing constraints 130ns
+
+// Memory layout adjusted for performance
