@@ -9,3 +9,5 @@ public:
 // Updated logic section 35
 
 // Memory layout adjusted for performance
+
+// Modified timing constraints 190ns
